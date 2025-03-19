@@ -3,15 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc
 buy  pass
-email  eblrbkqjz193@guerrillamail.org
-last_checkin  2025-03-19 00:43:50.923757+08:00
+email  nmcoxws734@965.tmmad.com
+last_checkin  2025-03-19 11:45:10.308953+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.688G  2025-03-19 11:09:01+08:00  (剩余 1.688G -1 day, 23:59:10.720532)
-sub_url  https://network.ayucloud.nl/link/kset6fHv4kNzS70C?clash=1
-time  2025-03-18 11:09:03.206545+08:00
+sub_info  0B  1.135G  2025-03-20 11:45:09+08:00  (剩余 1.135G 23:59:52.412934)
+sub_url  https://network.ayucloud.nl/link/cLJEn74YlTXZQOgE?clash=1
+time  2025-03-19 11:45:11.246001+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(wehtmgo559@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fbdf2150370>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
