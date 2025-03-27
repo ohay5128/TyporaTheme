@@ -1853,6 +1853,8 @@ rules:
 - DOMAIN-SUFFIX,zhipin.com,DIRECT
 - DOMAIN-SUFFIX,zhongsou.com,DIRECT
 - DOMAIN-SUFFIX,zhuihd.com,DIRECT
+- DOMAIN-SUFFIX,cmbchina.com,DIRECT
+- DOMAIN-SUFFIX,95516.com,DIRECT
 - DOMAIN-SUFFIX,inter.ptqy.gitv.tv,DIRECT
 - IP-CIDR,23.40.241.251/32,DIRECT,no-resolve
 - IP-CIDR,23.40.242.10/32,DIRECT,no-resolve
@@ -9601,6 +9603,4 @@ rules:
 - IP-CIDR,223.255.0.0/17,DIRECT,no-resolve
 - IP-CIDR,223.255.236.0/22,DIRECT,no-resolve
 - IP-CIDR,223.255.252.0/23,DIRECT,no-resolve
-- DOMAIN-SUFFIX,wxdown.org,DIRECT
-- GEOIP,CN,DIRECT
 - MATCH,🚀 节点选择
