@@ -12,6 +12,7 @@ sub_url  https://network.ayucloud.nl/link/MHtZscJNW03SJOMI?clash=1
 time  2025-04-12 23:35:03.280324+08:00
 type  sspanel
 尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
