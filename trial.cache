@@ -4,16 +4,15 @@ auto_invite  F
 banned_domains  lista.cc  snapmail.cc  tmpnator.live
 buy  pass
 email  vgwyfjht218@guerrillamail.biz
-last_checkin  2025-04-13 07:09:15.341211+08:00
+last_checkin  2025-04-14 07:10:47.530602+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-04-13 23:35:01+08:00  (剩余 0B -1 day, 16:57:34.957128)
+sub_info  0B  111M  2025-04-13 23:35:01+08:00  (剩余 111M -1 day, 16:23:42.219760)
 sub_url  https://network.ayucloud.nl/link/MHtZscJNW03SJOMI?clash=1
 time  2025-04-12 23:35:03.280324+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(qlszcwvax384@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(hyoenqbea785@bareed.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 
