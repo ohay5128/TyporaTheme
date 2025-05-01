@@ -7,10 +7,11 @@ email  ekrlsoo728@guerrillamail.org
 last_checkin  2025-05-01 23:11:21.050127+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.161G  2025-05-02 23:11:20+08:00  (剩余 1.161G 22:57:50.686391)
+sub_info  0B  1.161G  2025-05-02 23:11:20+08:00  (剩余 1.161G 22:27:05.473426)
 sub_url  https://network.ayucloud.nl/link/yoOrTeeuThjApWTA?clash=1
 time  2025-05-01 23:11:22.017733+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
