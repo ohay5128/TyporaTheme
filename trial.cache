@@ -7,11 +7,11 @@ email  uekgypp42@lplso.tmmad.com
 last_checkin  2025-05-17 04:38:43.502854+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.173G  2025-05-18 04:38:43+08:00  (剩余 1.173G 1:51:50.601103)
+sub_info  0B  1.173G  2025-05-18 04:38:43+08:00  (剩余 1.173G 1:29:45.116024)
 sub_url  https://network.ayucloud.nl/link/JYa99oIqvPlorfKV?clash=1
 time  2025-05-17 04:38:44.504334+08:00
 type  sspanel
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f593bdf1540>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
