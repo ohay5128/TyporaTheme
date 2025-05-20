@@ -7,12 +7,12 @@ email  wlgztawhe409@guerrillamail.org
 last_checkin  2025-05-20 02:46:10.911624+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  101M  2025-05-19 13:39:18+08:00  (剩余 101M -1 day, 6:02:35.545664)
+sub_info  0B  101M  2025-05-19 13:39:18+08:00  (剩余 101M -1 day, 3:00:25.756676)
 sub_url  https://network.ayucloud.nl/link/PVVJgj0y2nfTkXYT?clash=1
 time  2025-05-18 13:39:19.941642+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新旧订阅失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  注册失败(zkijxsap223@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
