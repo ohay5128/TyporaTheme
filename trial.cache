@@ -7,12 +7,12 @@ email  zvlouelup633@mydefipet.live
 last_checkin  2025-05-24 02:14:37.135795+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.246G  2025-05-25 02:14:36+08:00  (剩余 1.246G 0:37:49.671935)
+sub_info  0B  1.246G  2025-05-25 02:14:36+08:00  (剩余 1.246G 0:01:09.120624)
 sub_url  https://network.ayucloud.nl/link/5RutgvCyAkd6eJ62?clash=1
 time  2025-05-24 02:14:38.078988+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新订阅链接/续费续签失败  注册失败(owtnpwms232@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+更新订阅链接/续费续签失败  注册失败(cvczhlkuu240@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
