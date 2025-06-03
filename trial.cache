@@ -8,9 +8,10 @@ last_checkin  2025-06-03 16:16:38.068410+08:00
 name  AyucLouD-Services
 node_n  99
 sub_info  0B  1.18G  2025-06-04 16:16:37+08:00  (剩余 1.18G 17:29:30.891013)
-sub_url  https://network.ayucloud.nl/link/x8mCeRKZGAcwyegT?clash=1
+sub_url  https://ayucloud.services/link/x8mCeRKZGAcwyegT?clash=1
 time  2025-06-03 16:16:39.062960+08:00
 type  sspanel
+更新旧订阅失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
