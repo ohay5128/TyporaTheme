@@ -13,7 +13,7 @@ time  2025-06-09 00:43:11.847536+08:00
 type  sspanel
 保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/gfOfp2d2LV5CjPNe?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f57d3e9e830>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /link/gfOfp2d2LV5CjPNe?clash=1 (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f2b09d33490>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
