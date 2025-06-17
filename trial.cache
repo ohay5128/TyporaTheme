@@ -11,7 +11,8 @@ sub_info  0B  1.113G  2025-06-18 08:56:01+08:00  (剩余 1.113G 7:44:59.939776)
 sub_url  https://ayucloud.services/link/nuZB5498CQAGlVUz?clash=1
 time  2025-06-17 08:56:02.206842+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5b106fe6b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
