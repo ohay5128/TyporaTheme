@@ -4,15 +4,14 @@ auto_invite  F
 banned_domains  lista.cc  snapmail.cc  tmpnator.live  xxxhi.cc
 buy  pass
 email  zixfuugx23@linshiyou.com
-last_checkin  2025-06-22 07:36:20.801826+08:00
+last_checkin  2025-06-23 07:36:17.668141+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.149G  2025-06-23 07:36:20+08:00  (剩余 1.149G 0:23:56.639400)
+sub_info  0B  1.838G  2025-06-23 07:36:20+08:00  (剩余 1.838G -1 day, 23:59:01.600458)
 sub_url  https://network.ayucloud.nl/link/EeSeYmRRGfCyXTu6?clash=1
 time  2025-06-22 07:36:21.588268+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(gaatvzh702@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5152648040>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  获取邮箱失败: 设置 rootsh.com 账户失败: 502 Bad Gateway '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body>\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx</center>\r\n</body>\r\n</html>\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n<!-- a padding to disable MSIE and Chrome friendly error page -->\r\n'
 
 [qlgq.top]
 
