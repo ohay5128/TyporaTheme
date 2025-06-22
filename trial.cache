@@ -7,11 +7,11 @@ email  zixfuugx23@linshiyou.com
 last_checkin  2025-06-22 07:36:20.801826+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.149G  2025-06-23 07:36:20+08:00  (剩余 1.149G 6:27:15.081235)
+sub_info  0B  1.149G  2025-06-23 07:36:20+08:00  (剩余 1.149G 5:56:49.141080)
 sub_url  https://network.ayucloud.nl/link/EeSeYmRRGfCyXTu6?clash=1
 time  2025-06-22 07:36:21.588268+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
