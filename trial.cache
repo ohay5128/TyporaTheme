@@ -3,17 +3,14 @@ auth_path  user
 auto_invite  F
 banned_domains  lista.cc  snapmail.cc  tmpnator.live  xxxhi.cc  femailtor.com
 buy  pass
-email  dfzksjgm757@guerrillamail.com
-last_checkin  2025-06-26 03:08:16.123243+08:00
+email  lcftwsju368@questtechsystems.com
+last_checkin  2025-06-27 14:19:41.350597+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-06-26 21:10:15+08:00  (剩余 0B -1 day, 7:54:45.107386)
-sub_url  https://network.ayucloud.nl/link/QWjryW68yqhzNww7?clash=1
-time  2025-06-25 21:10:16.613683+08:00
+sub_info  0B  1.091G  2025-06-28 14:19:41+08:00  (剩余 1.091G 23:59:55.509467)
+sub_url  https://network.ayucloud.nl/link/sEusoCYCvqmnq9nd?clash=1
+time  2025-06-27 14:19:42.285443+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f5fc1971630>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
 
 [qlgq.top]
 
