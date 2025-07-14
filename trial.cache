@@ -4,16 +4,15 @@ auto_invite  F
 banned_domains  lista.cc  snapmail.cc  tmpnator.live  xxxhi.cc  femailtor.com  mydefipet.live
 buy  pass
 email  xreoqbj652@youxiang.dev
-last_checkin  2025-07-09 15:39:59.381439+08:00
+last_checkin  2025-07-15 03:10:19.482610+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  0B  2025-07-10 15:39:59+08:00  (剩余 0B -5 days, 12:46:14.109531)
+sub_info  0B  284M  2025-07-10 15:39:59+08:00  (剩余 284M -5 days, 12:27:06.589658)
 sub_url  https://network.ayucloud.nl/link/date8kBxkJEyj3zm?clash=1
 time  2025-07-09 15:40:00.362628+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
-更新订阅链接/续费续签失败  注册失败(vcsnlgei99@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f99b8f1e5c0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(qknwurxjt395@tmpmail.org): 邮箱后缀已被拉黑
 
 [qlgq.top]
 
