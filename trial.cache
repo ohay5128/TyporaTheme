@@ -7,11 +7,11 @@ email  dmsyfsv849@spam4.me
 last_checkin  2025-07-16 13:20:34.881399+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.013G  2025-07-17 13:20:34+08:00  (剩余 1.013G 12:30:59.658275)
+sub_info  0B  1.013G  2025-07-17 13:20:34+08:00  (剩余 1.013G 12:06:55.797571)
 sub_url  https://network.ayucloud.nl/link/ZmcevgPHFpkSkeiz?clash=1
 time  2025-07-16 13:20:35.804915+08:00
 type  sspanel
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
