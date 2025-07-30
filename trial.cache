@@ -7,10 +7,11 @@ email  qfhyxjlb684@teihu.com
 last_checkin  2025-07-30 03:14:57.311006+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.06G  2025-07-31 03:14:56+08:00  (剩余 1.06G 2:59:46.153699)
+sub_info  0B  1.06G  2025-07-31 03:14:56+08:00  (剩余 1.06G 2:26:05.384744)
 sub_url  https://network.ayucloud.nl/link/LW3QVyQjDK9Lzxjr?clash=1
 time  2025-07-30 03:14:58.237043+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
