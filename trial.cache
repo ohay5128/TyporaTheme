@@ -7,10 +7,11 @@ email  uqutimvq173@youxiang.dev
 last_checkin  2025-08-01 06:14:00.262823+08:00
 name  AyucLouD-Services
 node_n  99
-sub_info  0B  1.204G  2025-08-02 06:13:59+08:00  (剩余 1.204G 5:58:51.365977)
+sub_info  0B  1.204G  2025-08-02 06:13:59+08:00  (剩余 1.204G 5:23:40.692112)
 sub_url  https://network.ayucloud.nl/link/WTayLzhJrqPjqBaX?clash=1
 time  2025-08-01 06:14:01.218261+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
