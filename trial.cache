@@ -1,9 +1,16 @@
 [ayucloud.services]
 auth_path  user
+auto_invite  F
 banned_domains  jkd.tmmad.com
+buy  pass
+email  cyrhlvra143@spam4.me
+last_checkin  2025-09-19 03:33:02.227140+08:00
 name  AyucLouD-Services
+node_n  105
+sub_info  0B  1.175G  2025-09-20 03:33:00+08:00  (剩余 1.175G 23:59:27.820405)
+sub_url  https://network.ayucloud.nl/link/oz3CM29GFxQpoVnB?clash=1
+time  2025-09-19 03:33:03.042557+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(abhrzivjv802@gmail.com): ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 
