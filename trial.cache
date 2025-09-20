@@ -7,10 +7,11 @@ email  sjhhhchqn778@grr.la
 last_checkin  2025-09-20 21:35:39.344900+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  43.95M  1.024G  2025-09-21 21:35:39+08:00  (剩余 1005M 21:24:08.432705)
+sub_info  49.59M  1.024G  2025-09-21 21:35:39+08:00  (剩余 999.4M 20:57:50.106196)
 sub_url  https://network.ayucloud.nl/link/uRUi4vpFSmsMtRLG?clash=1
 time  2025-09-20 21:35:40.295118+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
