@@ -7,10 +7,11 @@ email  dqzmvmnj224@spam4.me
 last_checkin  2025-09-25 11:13:00.512419+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  359.3M  1.084G  2025-09-26 11:13:00+08:00  (剩余 750.7M 10:59:52.043870)
+sub_info  362.9M  1.084G  2025-09-26 11:13:00+08:00  (剩余 747.1M 10:29:05.214330)
 sub_url  https://network.ayucloud.nl/link/ok0BD0qwpE0TmU2H?clash=1
 time  2025-09-25 11:13:01.505205+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 
