@@ -7,16 +7,17 @@ email  jxbbtvely4@oakon.com
 last_checkin  2025-10-07 10:16:18.543083+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  638.7M  1.242G  2025-10-08 10:16:18+08:00  (剩余 633.3M 21:05:26.756046)
+sub_info  1.327G  1.242G  2025-10-08 10:16:18+08:00  (剩余 -86.92M 20:39:11.216605)
 sub_url  https://network.ayucloud.nl/link/goloGi9waik377Da?clash=1
 time  2025-10-07 10:16:19.490468+08:00
 type  sspanel
+更新订阅链接/续费续签失败  注册失败(ahheefs697@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nsstittm425@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7eff7fa3e8f0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(tneqruf787@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fd898cfeb60>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
