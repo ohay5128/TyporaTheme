@@ -1,23 +1,23 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com
+banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com
 buy  pass
 email  ipnlwja126@youxiang.dev
 last_checkin  2025-10-09 17:37:57.736839+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  1.355G  1.111G  2025-10-10 17:37:57+08:00  (剩余 -249.9M 22:04:06.774842)
+sub_info  1.355G  1.111G  2025-10-10 17:37:57+08:00  (剩余 -249.9M 21:15:22.688685)
 sub_url  https://network.ayucloud.nl/link/9tRskknSbNOQilUM?clash=1
 time  2025-10-09 17:37:58.694808+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(luuhsvmlk224@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(rdwmozr522@smartnator.com)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(ylqobnmz603@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fa3ba98f130>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(yqbgtec672@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f84be3835e0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
