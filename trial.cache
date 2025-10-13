@@ -1,24 +1,24 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech
+banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech  lyx13.xyz
 buy  pass
 email  btutwzbzl93@mydefipet.live
 last_checkin  2025-10-13 02:40:48.593301+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-10-13 18:10:11+08:00  (剩余 0B -1 day, 21:48:11.679102)
+sub_info  0B  0B  2025-10-13 18:10:11+08:00  (剩余 0B -1 day, 21:05:10.605045)
 sub_url  https://network.ayucloud.nl/link/D8tdaP7xRhFx8Slp?clash=1
 time  2025-10-12 18:10:12.744689+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-更新订阅链接/续费续签失败  注册失败(kncvfcjgd62@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(ulfrkaoqk951@lyx13.xyz)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(uwkvypxj569@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3dddd615a0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(miqzrcwi949@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f3398dea920>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
