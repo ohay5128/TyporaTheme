@@ -7,7 +7,7 @@ email  quhbrzkrb217@guerrillamail.de
 last_checkin  2025-10-15 17:12:46.645696+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  91M  1.156G  2025-10-16 17:12:46+08:00  (剩余 1.067G 21:39:10.386727)
+sub_info  291.3M  1.156G  2025-10-16 17:12:46+08:00  (剩余 892.7M 20:49:29.910681)
 sub_url  https://network.ayucloud.nl/link/OOyCFrG1iSeKvJto?clash=1
 time  2025-10-15 17:12:47.587929+08:00
 type  sspanel
@@ -16,7 +16,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(fjywpzd653@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f1c0fefaad0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(cbqmwrq781@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fb1b71ef250>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
