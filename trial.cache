@@ -7,7 +7,7 @@ email  mtyqpsacr637@mydefipet.live
 last_checkin  2025-10-26 01:08:42.862108+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  721.7M  1.696G  2025-10-26 20:19:02+08:00  (剩余 1015M 1:41:13.568473)
+sub_info  777.3M  1.696G  2025-10-26 20:19:02+08:00  (剩余 959.7M 1:10:37.651452)
 sub_url  https://network.ayucloud.nl/link/JATy59Ftxobjc6XS?clash=1
 time  2025-10-25 20:19:03.612830+08:00
 type  sspanel
@@ -16,7 +16,7 @@ type  sspanel
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(odzqjlcy55@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f39efbf7760>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(mubmqyugt302@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f03075630a0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
