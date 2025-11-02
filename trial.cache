@@ -4,22 +4,21 @@ auto_invite  F
 banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech  lyx13.xyz  psnator.com  ipiso.tmmad.com  tmpnator.live  bookmorpho.cfd  femailtor.com  mydefipet.live  xdanae.com
 buy  pass
 email  xdmstvz476@youxiang.dev
-last_checkin  2025-11-02 02:13:54.251806+08:00
+last_checkin  2025-11-03 02:41:00.272585+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  0B  2025-11-02 22:36:09+08:00  (剩余 0B -1 day, 20:18:26.054010)
+sub_info  0B  195M  2025-11-02 22:36:09+08:00  (剩余 195M -1 day, 19:52:58.786728)
 sub_url  https://network.ayucloud.nl/link/uisKhiWt89La83x9?clash=1
 time  2025-11-01 22:36:11.108671+08:00
 type  sspanel
 保存base64/clash订阅失败  'NoneType' object is not iterable
-尝试签到失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe0be9a23b0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
-更新订阅链接/续费续签失败  注册失败(hwupuqgxw834@gmail.com): HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/register (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7fe0be99ca30>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(djvjqfgaj664@disbox.net): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(nesgfnl651@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fe0be9a1e40>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(xplzqkct662@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f75ab066230>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
