@@ -7,16 +7,17 @@ email  aexbasybw565@guerrillamail.de
 last_checkin  2025-11-08 14:47:26.485300+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  82.26M  1.248G  2025-11-09 14:47:26+08:00  (剩余 1.168G 14:35:42.622882)
+sub_info  85.63M  1.248G  2025-11-09 14:47:26+08:00  (剩余 1.164G 14:06:38.012540)
 sub_url  https://network.ayucloud.nl/link/iEvAQ192Q0RlgTWM?clash=1
 time  2025-11-08 14:47:27.446877+08:00
 type  sspanel
+尝试签到失败  ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(pmrmnvevs53@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f457e0ef250>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(gwzmbsyq660@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7efff6003190>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
