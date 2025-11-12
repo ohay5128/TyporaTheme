@@ -1,23 +1,23 @@
 [ayucloud.services]
 auth_path  user
 auto_invite  F
-banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech  lyx13.xyz  psnator.com  ipiso.tmmad.com  tmpnator.live  bookmorpho.cfd  femailtor.com  mydefipet.live  xdanae.com
+banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech  lyx13.xyz  psnator.com  ipiso.tmmad.com  tmpnator.live  bookmorpho.cfd  femailtor.com  mydefipet.live  xdanae.com  12316hfk.com
 buy  pass
 email  yijmdfgoc412@linshiyou.com
 last_checkin  2025-11-12 03:08:44.207196+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.772G  2025-11-12 17:42:12+08:00  (剩余 1.772G 0:28:38.695922)
+sub_info  0B  1.772G  2025-11-12 17:42:12+08:00  (剩余 1.772G 0:00:48.977088)
 sub_url  https://network.ayucloud.nl/link/n1nAgAnYt9ksfBEK?clash=1
 time  2025-11-11 17:42:14.030630+08:00
 type  sspanel
-更新订阅链接/续费续签失败  注册失败(twuhgyb263@gmail.com): ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
+更新订阅链接/续费续签失败  获取邮箱验证码超时(clbbzymjs854@12316hfk.com)
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(dzyovgmbx122@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f6e42aeeec0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(otjmbyapz336@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fc405abc670>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
