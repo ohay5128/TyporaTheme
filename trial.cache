@@ -3,23 +3,20 @@ auth_path  user
 auto_invite  F
 banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech  lyx13.xyz  psnator.com  ipiso.tmmad.com  tmpnator.live  bookmorpho.cfd  femailtor.com  mydefipet.live  xdanae.com  12316hfk.com  lushenticbag.com  vapelato.com
 buy  pass
-email  nwoeoaobk395@guerrillamail.net
-last_checkin  2025-11-18 01:11:34.260760+08:00
+email  slogekbtx203@grr.la
+last_checkin  2025-11-18 01:41:00.516717+08:00
 name  AyucLouD-Services
 node_n  105
-sub_info  0B  1.758G  2025-11-17 21:41:13+08:00  (剩余 1.758G 0:35:15.711119)
-sub_url  https://network.ayucloud.nl/link/75wmLRhKpNtRAOb9?clash=1
-time  2025-11-16 21:41:14.419728+08:00
+sub_info  0B  1.085G  2025-11-19 01:41:00+08:00  (剩余 1.085G 23:59:54.246716)
+sub_url  https://network.ayucloud.nl/link/Ups0iZTIhHCnXmHB?clash=1
+time  2025-11-18 01:41:01.537246+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
-保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(nkqusygh865@bareed.ws): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(zfavdjxsy987@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7fbc2bc65a20>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
+更新订阅链接/续费续签失败  注册失败(fshpjvf927@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f2becdfefb0>: Failed to resolve 'ww38.qlgq.top' ([Errno -5] No address associated with hostname)"))
 
 [cyanmori.com]
 
