@@ -11,15 +11,15 @@ sub_info  1.718G  1.714G  2025-11-22 23:11:29+08:00  (剩余 -3.756M 0:01:47.651
 sub_url  https://network.ayucloud.nl/link/23H59OQiTVhxicUm?clash=1
 time  2025-11-21 23:11:31.429575+08:00
 type  sspanel
-保存base64/clash订阅失败  string indices must be integers
+保存base64/clash订阅失败  'proxies'
 保存订阅信息失败  no sub info
-更新订阅链接/续费续签失败  注册失败(fobmziqf175@tmail.ws): 邮箱后缀已被拉黑
+更新订阅链接/续费续签失败  注册失败(bbiaybgqv64@tmpmail.net): 邮箱后缀已被拉黑
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(xkqefto214@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f8e3a391cc0>: Failed to resolve 'ww38.qlgq.top' ([Errno -3] Temporary failure in name resolution)"))
+更新订阅链接/续费续签失败  注册失败(dfnqxnu297@gmail.com): HTTPSConnectionPool(host='ww38.qlgq.top', port=443): Max retries exceeded with url: /api/v1/passport/auth/register (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x7f0be45d71c0>: Failed to resolve 'ww38.qlgq.top' ([Errno -3] Temporary failure in name resolution)"))
 
 [cyanmori.com]
 
