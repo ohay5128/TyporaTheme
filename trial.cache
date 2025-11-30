@@ -4,23 +4,22 @@ auto_invite  F
 banned_domains  jkd.tmmad.com  51788.top  mail.shouyou789.com  snapmail.cc  vapeuccino.com  965.tmmad.com  deomail.top  huiplay.com  tomystudio.com  xxxhi.cc  mxl001.win  wfes.site  jkb.tmmad.com  bccto.cc  25ua.com  x866.cc  adtgng.tmmad.com  lplso.tmmad.com  lista.cc  wwobs.com  smartnator.com  mail.wvwvw.tech  lyx13.xyz  psnator.com  ipiso.tmmad.com  tmpnator.live  bookmorpho.cfd  femailtor.com  mydefipet.live  xdanae.com  12316hfk.com  lushenticbag.com  vapelato.com  rgzx.tmmad.com  JKD.TMMAD.COM
 buy  pass
 email  mmipgfvf834@sharklasers.com
-last_checkin  2025-11-30 23:40:16.891268+08:00
+last_checkin  2025-12-01 03:32:41.655500+08:00
 name  AyucLouD-Services
 node_n  105
 sub_info  1.718G  1.714G  2025-11-22 23:11:29+08:00  (剩余 -3.756M 0:01:47.651200)
 sub_url  https://network.ayucloud.nl/link/23H59OQiTVhxicUm?clash=1
 time  2025-11-21 23:11:31.429575+08:00
 type  sspanel
-保存base64/clash订阅失败  'proxies'
+保存base64/clash订阅失败  string indices must be integers
 保存订阅信息失败  no sub info
-尝试签到失败  ('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))
-更新旧订阅失败  HTTPSConnectionPool(host='ayucloud.services', port=443): Max retries exceeded with url: /user/login (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x7f508d7e8ee0>, 'Connection to ayucloud.services timed out. (connect timeout=30)'))
+更新订阅链接/续费续签失败  注册失败(aqpfzuobq825@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (502 Bad Gateway '<!DOCTYPE html>\n<html lang="en">\n<head>\n\t<title>502 Bad Gateway</title>\n\t<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>\n\t<style>\n\taddress { line-height: 1.8; }\n\t</style>\n</head>\n<body>\n\n<h1>502 Bad Gateway</h1>\n<p>The site is unavailable now, cause: Failed to read origin site.</p>\n\n<address>Connection: 64.236.169.128 (Client) -&gt; (Server)</address>\n<address>Request ID: 176453114788691000001.</address>\n\n</body>\n</html>')
 
 [qlgq.top]
 api_host  ww38.qlgq.top
 error  <string>:2 Unexpected "r" at column 12
 type  v2board
-更新订阅链接/续费续签失败  注册失败(sesttud914@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
+更新订阅链接/续费续签失败  注册失败(prfqcedn203@gmail.com): 解析 json 失败: Expecting value: line 1 column 1 (char 0) (405 Method Not Allowed 'Method Not Allowed')
 
 [cyanmori.com]
 
